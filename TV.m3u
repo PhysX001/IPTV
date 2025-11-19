@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",América TV
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",ATV
+https://live-evg18.tv360.bitel.com.pe/bitel/atvmas_abr/bitel/atvmas_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Latina
+https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General", Panamericana
+https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",PBO
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Willax
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Exitosa
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Música",Karibeña
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Películas",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Películas",Rakuten Acción
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Películas",Rakuten Comedia
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Películas",Rakuten Familia
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Películas",Rakuten Películas
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
